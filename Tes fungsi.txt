@@ -1,3 +1,5 @@
 tiga
 dua
 satu
+lima
+empat
